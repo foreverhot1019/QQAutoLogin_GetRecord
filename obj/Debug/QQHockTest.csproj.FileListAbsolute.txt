@@ -1,0 +1,9 @@
+E:\项目\QQHockTest\QQHockTest\bin\Debug\QQHockTest.exe.config
+E:\项目\QQHockTest\QQHockTest\bin\Debug\QQHockTest.exe
+E:\项目\QQHockTest\QQHockTest\bin\Debug\QQHockTest.pdb
+E:\项目\QQHockTest\QQHockTest\obj\Debug\QQHockTest.Form1.resources
+E:\项目\QQHockTest\QQHockTest\obj\Debug\QQHockTest.Properties.Resources.resources
+E:\项目\QQHockTest\QQHockTest\obj\Debug\QQHockTest.csproj.GenerateResource.Cache
+E:\项目\QQHockTest\QQHockTest\obj\Debug\QQHockTest.exe
+E:\项目\QQHockTest\QQHockTest\obj\Debug\QQHockTest.pdb
+E:\项目\QQHockTest\QQHockTest\obj\Debug\QQHockTest.csprojResolveAssemblyReference.cache
